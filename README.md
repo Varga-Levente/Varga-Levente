@@ -1,6 +1,11 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Levente</h1>
+<h3 align="center">A passionate back-end developer from Hungary</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varga-levente&label=Profile%20views&color=0e75b6&style=flat" alt="varga-levente" /> </p>
+
+- 🌱 I’m currently learning **Mobile App Developing (Android)**
+
+- 📫 How to reach me **hello@varga-levente.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
