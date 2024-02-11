@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varga-levente&show_icons=true&locale=en&layout=compact" alt="varga-levente" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varga-levente&show_icons=true&locale=en" alt="varga-levente" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varga-levente&" alt="varga-levente" /></p>
