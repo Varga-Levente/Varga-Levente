@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mobile App Developing (Android)**
 
-- 📫 How to reach me **contact@varga-levente.com**
+- 📫 How to reach me **hello@varga-levente.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
